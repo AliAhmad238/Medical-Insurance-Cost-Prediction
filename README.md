@@ -125,7 +125,8 @@ This is a personal project made for learning and demonstration purposes. You’r
 
 ## 📬 Contact
 
-**Developers:** Ali Ahmad (Software Engineer) & Amina Maqsood (Software Engineer)  
+**Developers:** Ali Ahmad (Software Engineer) & 
+                Amina Maqsood (Software Engineer)  
 
 **GitHub:** [Ali Ahmad](https://github.com/AliAhmad238)  
 **Email:** mattarii78@gmail.com
